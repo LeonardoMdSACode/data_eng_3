@@ -1,5 +1,5 @@
 # Data Pipeline on Snowflake
-### Tutorial of a ETL pipeline on snowflake
+### Tutorial of an ETL pipeline on snowflake
 
 Building a data pipeline on snowflake warehouse 
 
